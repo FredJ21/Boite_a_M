@@ -18,7 +18,7 @@ Boite à Meuh DIY ... ou boite à autre chose ...
 ***Description***
 
 Cette petite boite est très simple !! <br>
-Elle est réalisée en impression 3D et embarque un peu d'électronique <br>
+Elle est réalisée en impression 3D et embarque un petit peu d'électronique <br>
 
 
 ---
@@ -34,7 +34,7 @@ Elle est réalisée en impression 3D et embarque un peu d'électronique <br>
 </table>
 
 * Pas de recommendation particulière pour l'impression, PLA ou PETG .... il faut juste une impression propre, soigné, sans précipitation<br> 
-* La précision de l'impression contribuera au bon fonctionnement de pas de vis entre la boite et son couvercle.<br>
+* La précision de l'impression contribuera au bon fonctionnement du pas de vis entre la boite et son couvercle.<br>
 
 * A noter : l’emboîtement des deux pièces intérieures ( pour le support du CI ) ce fait "à force" : impossible de déboîté sans casser /!\ <br>
 ==> il faut donc insérer le circuit imprimé avant l’emboîtement finale des deux pièces
