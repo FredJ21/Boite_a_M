@@ -20,11 +20,11 @@ Elle est réalisée en impression 3D, embarque un petit peu d'électronique, et 
 Cette "boîte à meuh", aussi nommée "boîte à vache", est un projet DIY (Do it yourself - faites-le par vous-même). Elle respecte les dimensions de la boite originale des années 80 ( https://fr.wikipedia.org/wiki/Bo%C3%AEte_%C3%A0_meuh )
 <br>
 
-Au programme dans ce tuto en images et vidéos :
+Au programme dans ce tuto, et en images & vidéos :
 
 * les pièces 3D et l'impression
 * la liste des composants et le schéma électronique
-* l'implentation des composants sur une petite carte d'essai
+* l’implantation des composants sur une petite carte d'essai
 * l'assemblage final
 * un exemple de programme
 
@@ -58,7 +58,7 @@ Le projet est composé de :
 ---
 ### ***Électronique - composants et schéma***
 
-Le porjet est composé des pièces suivantes :
+Le projet est composé des pièces suivantes :
 
 * un module ESP8266 au format Wemos D1 Mini
 * un module lecteur MP3 DFPlayer
@@ -69,7 +69,7 @@ Le porjet est composé des pièces suivantes :
 * un module de gestion charge type TP4056
 * un petit "jump" coupe circuit (en guise d'interrupteur marche/arrêt)
 
-<img src="electro/Boite_a_M_schema.png" width="90%">
+<img src="electro/Boite_a_M_schema.png" width="1    00%">
 
 *Raccordement de l'ESP8266 :* 
 * D3 --> capteur d'inclinaison PZ-101
