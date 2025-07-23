@@ -127,6 +127,12 @@ En vidéo pour mieux visualiser l'assemblage du projet , ici :
 ---
 ### ***Programmation***
 
+Il suffit maintenant de préparer la carte SD en la formatant en Fat32, et en déposant les fichiers que l'on peut trouver dans le répertoire [sounds](/sounds/)<br>
+<br>
+
+
+
+
 
 [Exemple de programmation](code/01_Projet_Boite_a_M.ino)
 
