@@ -4,8 +4,8 @@
 <tr>
 <td align="center" width="49%"><img src="photos/IMG_4726.JPEG"></td>
 
-<td align="center" width="24%"><a href="https://youtube.com/shorts/z0yPpo4DU60"><img src="img/boite_a_M_youtube_1.png"></a></td>
-<td align="center" width="24%"><a href="https://www.youtube.com/shorts/TMsXGQWfiJk"><img src="img/boite_a_M_youtube_2.png"></a></td>
+<td align="center" width="24%"><a href="https://youtube.com/shorts/z0yPpo4DU60"><img src="img/boite_a_M_youtube_1.png"></a>(merci Magalie)</td>
+<td align="center" width="24%"><a href="https://www.youtube.com/shorts/TMsXGQWfiJk"><img src="img/boite_a_M_youtube_2.png"></a>(merci Cécille)</td>
 
 </tr>
 </tbody></table>  
@@ -15,7 +15,10 @@
 ### ***Description***
 
 Cette petite boite est très simple !! <br>
-Elle est réalisée en impression 3D et embarque un petit peu d'électronique, sa programmation est facile <br>
+Elle est réalisée en impression 3D, embarque un petit peu d'électronique, et sa programmation est plutôt facile <br>
+<br>
+Cette "boîte à meuh", aussi nommée "boîte à vache", est un projet DIY (Do it yourself - faites-le par vous-même). Elle respecte les dimensions de la boite originale des années 80 ( https://fr.wikipedia.org/wiki/Bo%C3%AEte_%C3%A0_meuh )
+<br>
 
 Au programme dans ce tuto en images et vidéos :
 
@@ -59,10 +62,19 @@ Le porjet est composé des pièces suivantes :
 
 * un module ESP8266 au format Wemos D1 Mini
 * un module lecteur MP3 DFPlayer
-* un petit haut-parleur 2w 8Ohms d'un diameètre de 40mm
+* une petite carte Micro SD pour le stockage du DFPlayer
+* un petit haut-parleur 2w 8Ohms d'un diamètre de 40mm
 * un capteur / interrupteur PZ-101 , détecteur d'inclinaison
 * une batterie LiPo 3,7V 1000mAh
 * un module de gestion charge type TP4056
+* un petit "jump" coupe circuit (en guise d'interrupteur marche/arrêt)
+
+<img src="electro/Boite_a_M_schema.png" width="90%">
+
+*Raccordement de l'ESP8266 :* 
+* D3 --> capteur d'inclinaison PZ-101
+* D2 --> DFPlayer TX
+* D8 --> DFPlayer RX
 
 
 ---
@@ -73,6 +85,9 @@ L'implantation est réalisé sur une plaque d'éssai ( circuit imprimé à trous
 --> L'ESP8266 est monté sur deux barrettes au pas de 2.54mm , afin de rester enfichables, et d'être sur élevé <br> 
 --> Le capteur/interrupteur est soudé directement sur l'ESP8266 <br>
 --> Le haut-parleur est collé sur la pièce 3D précédement imprimer <br>
+<br>
+L'implantation et le câblage ne sont pas strictes et peuvent être réalisés de différentes façons ...
+
 
 
 
