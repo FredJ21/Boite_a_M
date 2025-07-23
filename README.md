@@ -12,7 +12,7 @@
 
 ---
 
-***Description***
+### ***Description***
 
 Cette petite boite est très simple !! <br>
 Elle est réalisée en impression 3D et embarque un petit peu d'électronique, sa programmation est facile <br>
@@ -27,7 +27,7 @@ Au programme dans ce tuto en images et vidéos :
 
 
 ---
-***Impression 3D***
+### ***Impression 3D***
 
 Le projet est composé de :
 
@@ -53,7 +53,7 @@ Le projet est composé de :
 
 
 ---
-***Électronique - composants et schéma***
+### ***Électronique - composants et schéma***
 
 Le porjet est composé des pièces suivantes :
 
@@ -66,7 +66,7 @@ Le porjet est composé des pièces suivantes :
 
 
 ---
-***Électronique - Implantation***
+### ***Électronique - Implantation***
 
 L'implentation est réalisé sur plaque d'éssai ( circuit imprimé à trous prés étamés ) qu'il faudra découper aux dimentions : 50 x 33 mm
 
@@ -87,7 +87,7 @@ L'implentation est réalisé sur plaque d'éssai ( circuit imprimé à trous pr�
 
 
 ---
-***Assemblage final***
+### ***Assemblage final***
 
 
 <table width="100%">
@@ -104,7 +104,7 @@ En vidéo, ici :
 
 
 ---
-***Programmation***
+### ***Programmation***
 
 
 [Exemple de programmation](code/01_Projet_Boite_a_M.ino)
