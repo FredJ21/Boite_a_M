@@ -69,7 +69,7 @@ Le projet est composé des pièces suivantes :
 * un module de gestion charge type TP4056
 * un petit "jump" coupe circuit (en guise d'interrupteur marche/arrêt)
 
-<img src="electro/Boite_a_M_schema.png" width="1    00%">
+<img src="electro/Boite_a_M_schema.png" width="100%">
 
 *Raccordement de l'ESP8266 :* 
 * D3 --> capteur d'inclinaison PZ-101
@@ -84,7 +84,7 @@ L'implantation est réalisé sur une plaque d'éssai ( circuit imprimé à trous
 --> Le module DFPlayer et le module de gestion de charge, sont placés en dessous de l'ESP8266 <br>
 --> L'ESP8266 est monté sur deux barrettes au pas de 2.54mm , afin de rester enfichables, et d'être sur élevé <br> 
 --> Le capteur/interrupteur est soudé directement sur l'ESP8266 <br>
---> Le haut-parleur est collé sur la pièce 3D précédement imprimer <br>
+--> Le haut-parleur est collé sur la pièce 3D précédemment imprimer <br>
 <br>
 L'implantation et le câblage ne sont pas strictes et peuvent être réalisés de différentes façons ...
 
