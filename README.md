@@ -1,7 +1,4 @@
-## [ Projet DIY ] " La Boite à M ... "
-Boite à Meuh DIY ... ou boite à autre chose ...
-
-
+## [ Projet DIY ] " La Boite à M ... "  ... Meeuuuuhh !!! ... ou boite à autre chose ... 
 
 <table  width="100%"><tbody>
 <tr>
@@ -18,11 +15,21 @@ Boite à Meuh DIY ... ou boite à autre chose ...
 ***Description***
 
 Cette petite boite est très simple !! <br>
-Elle est réalisée en impression 3D et embarque un petit peu d'électronique <br>
+Elle est réalisée en impression 3D et embarque un petit peu d'électronique, sa programmation est facile <br>
+
+Au programme dans ce tuto en images et vidéos :
+
+* les pièces 3D et l'impression
+* la liste des composants et le schéma électronique
+* l'implentation des composants sur une petite carte d'essai
+* l'assemblage final
+* un exemple de programme
 
 
 ---
 ***Impression 3D***
+
+Le projet est composé de :
 
 * 2 pièces pour la boite ( [boite.stl](STL/boite.stl) ) et pour son couvercle ( [couvercle.stl](STL/couvercle.stl) )
 * 2 pièces pour le support du circuit imprimé et de la batterie : [support_ci_1.stl](STL/support_ci_1.stl) et [support_ci_2.stl](STL/support_ci_2.stl)
@@ -36,7 +43,7 @@ Elle est réalisée en impression 3D et embarque un petit peu d'électronique <b
 * Pas de recommendation particulière pour l'impression, PLA ou PETG .... il faut juste une impression propre, soigné, sans précipitation<br> 
 * La précision de l'impression contribuera au bon fonctionnement du pas de vis entre la boite et son couvercle.<br>
 
-* A noter : l’emboîtement des deux pièces intérieures ( pour le support du CI ) ce fait "à force" : impossible de déboîté sans casser /!\ <br>
+* /!\ A noter /!\ : l’emboîtement des deux pièces intérieures ( pour le support du CI ) ce fait "à force" : impossible de déboîter sans casser <br>
 ==> il faut donc insérer le circuit imprimé avant l’emboîtement finale des deux pièces
 
 <table width="100%">
@@ -46,7 +53,11 @@ Elle est réalisée en impression 3D et embarque un petit peu d'électronique <b
 
 
 ---
-***Électronique - schéma***
+***Électronique - composants et schéma***
+
+Le porjet est composé des pièces suivantes :
+
+
 
 
 ---
