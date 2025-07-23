@@ -118,7 +118,7 @@ Il reste à insérer le montage électronique dans son support <br>
 <td align="center"><img src="photos/IMG_4722.JPEG" ></td>
 </table>
 
-En vidéo pour comprendre l'assemblage du projet , ici :
+En vidéo pour mieux visualiser l'assemblage du projet , ici :
 
 * https://youtube.com/shorts/o-fcbijORVw
 * https://youtube.com/shorts/FD-gXw5TFGc
