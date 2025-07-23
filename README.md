@@ -93,7 +93,7 @@ L'implantation est réalisé sur une plaque d'éssai ( circuit imprimé à trous
 ---
 ### ***Assemblage final***
 
-Il reste à incérer le montage électronique dans son support <br>
+Il reste à insérer le montage électronique dans son support <br>
 --> Les fils de la batterie passent par un petit trou, il faut donc souder la batterie au dernier moment <br>
 
 <table width="100%">
