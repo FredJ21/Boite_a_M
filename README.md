@@ -57,11 +57,19 @@ Le projet est composé de :
 
 Le porjet est composé des pièces suivantes :
 
-
+* un module ESP8266 au format Wemos D1 Mini
+* un module lecteur MP3 DFPlayer
+* un petit haut-parleur 2w 8Ohms d'un diameètre de 40mm
+* un capteur / interrupteur PZ-101 , détecteur d'inclinaison
+* une batterie LiPo 3,7V 1000mAh
+* un module de gestion charge type TP4056
 
 
 ---
 ***Électronique - Implantation***
+
+L'implentation est réalisé sur plaque d'éssai ( circuit imprimé à trous prés étamés ) qu'il faudra découper aux dimentions : 50 x 33 mm
+
 
 
 <table width="100%">
