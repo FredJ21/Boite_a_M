@@ -71,6 +71,8 @@ Le porjet est composé des pièces suivantes :
 L'implantation est réalisé sur une plaque d'éssai ( circuit imprimé à trous prés étamés ) qu'il faudra découper aux dimentions : 50 x 33 mm <br>
 --> Le module DFPlayer et le module de gestion de charge, sont placés en dessous de l'ESP8266 <br>
 --> L'ESP8266 est monté sur deux barrettes au pas de 2.54mm , afin de rester enfichables, et d'être sur élevé <br> 
+--> Le capteur/interrupteur est soudé directement sur l'ESP8266 <br>
+--> Le haut-parleur est collé sur la pièce 3D précédement imprimante <br>
 
 
 
