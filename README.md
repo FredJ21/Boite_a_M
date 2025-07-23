@@ -72,7 +72,7 @@ L'implantation est réalisé sur une plaque d'éssai ( circuit imprimé à trous
 --> Le module DFPlayer et le module de gestion de charge, sont placés en dessous de l'ESP8266 <br>
 --> L'ESP8266 est monté sur deux barrettes au pas de 2.54mm , afin de rester enfichables, et d'être sur élevé <br> 
 --> Le capteur/interrupteur est soudé directement sur l'ESP8266 <br>
---> Le haut-parleur est collé sur la pièce 3D précédement imprimante <br>
+--> Le haut-parleur est collé sur la pièce 3D précédement imprimer <br>
 
 
 
@@ -93,6 +93,8 @@ L'implantation est réalisé sur une plaque d'éssai ( circuit imprimé à trous
 ---
 ### ***Assemblage final***
 
+Il reste à incérer le montage électronique dans son support <br>
+--> Les fils de la batterie passent par un petit trou, il faut donc souder la batterie au dernier moment <br>
 
 <table width="100%">
 <td align="center"><img src="photos/IMG_4693.JPEG" ></td>
@@ -101,7 +103,7 @@ L'implantation est réalisé sur une plaque d'éssai ( circuit imprimé à trous
 <td align="center"><img src="photos/IMG_4722.JPEG" ></td>
 </table>
 
-En vidéo, ici :
+En vidéo pour comprendre l'assemblage du projet , ici :
 
 * https://youtube.com/shorts/o-fcbijORVw
 * https://youtube.com/shorts/FD-gXw5TFGc
