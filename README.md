@@ -28,7 +28,6 @@ Au programme dans ce tuto, et en images & vidéos :
 * l'assemblage final
 * un exemple de programme
 
-
 ---
 ### ***Impression 3D***
 
