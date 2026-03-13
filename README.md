@@ -76,7 +76,6 @@ Le projet est composé des pièces suivantes :
 * D2 --> DFPlayer TX
 * D8 --> DFPlayer RX
 
-
 ---
 ### ***Électronique - Implantation***
 
