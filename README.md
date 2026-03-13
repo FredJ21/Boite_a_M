@@ -54,9 +54,6 @@ Le projet est composé de :
 <td align="center"><img src="img/img3.png" ></td>
 </table>
 
-
-
-
 ---
 ### ***Électronique - composants et schéma***
 
