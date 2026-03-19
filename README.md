@@ -132,6 +132,8 @@ Il suffit maintenant de pr√©parer la carte SD en la formatant en Fat32, et en d√
 
 [Exemple simple de code](code/01_Projet_Boite_a_M.ino)
 
+ok test
+
 ---
 
 
